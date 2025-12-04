@@ -1,0 +1,12 @@
+[09-Oct-2025 16:00:50 UTC] PHP Warning:  Undefined variable $name in /home/shandong/mmweb.icu/mm.web.de/send_contact_to_telegram.php on line 22
+[09-Oct-2025 16:00:50 UTC] PHP Warning:  Undefined variable $message in /home/shandong/mmweb.icu/mm.web.de/send_contact_to_telegram.php on line 22
+[09-Oct-2025 16:00:50 UTC] PHP Warning:  Undefined variable $name in /home/shandong/mmweb.icu/mm.web.de/send_contact_to_telegram.php on line 32
+[09-Oct-2025 16:00:50 UTC] PHP Warning:  Undefined variable $message in /home/shandong/mmweb.icu/mm.web.de/send_contact_to_telegram.php on line 37
+[09-Oct-2025 18:23:18 UTC] PHP Warning:  Undefined variable $name in /home/shandong/mmweb.icu/mm.web.de/send_contact_to_telegram.php on line 22
+[09-Oct-2025 18:23:18 UTC] PHP Warning:  Undefined variable $message in /home/shandong/mmweb.icu/mm.web.de/send_contact_to_telegram.php on line 22
+[09-Oct-2025 18:23:18 UTC] PHP Warning:  Undefined variable $name in /home/shandong/mmweb.icu/mm.web.de/send_contact_to_telegram.php on line 32
+[09-Oct-2025 18:23:18 UTC] PHP Warning:  Undefined variable $message in /home/shandong/mmweb.icu/mm.web.de/send_contact_to_telegram.php on line 37
+[13-Oct-2025 09:33:41 UTC] PHP Warning:  Undefined variable $name in /home/shandong/mmweb.icu/mm.web.de/send_contact_to_telegram.php on line 22
+[13-Oct-2025 09:33:41 UTC] PHP Warning:  Undefined variable $message in /home/shandong/mmweb.icu/mm.web.de/send_contact_to_telegram.php on line 22
+[13-Oct-2025 09:33:41 UTC] PHP Warning:  Undefined variable $name in /home/shandong/mmweb.icu/mm.web.de/send_contact_to_telegram.php on line 32
+[13-Oct-2025 09:33:41 UTC] PHP Warning:  Undefined variable $message in /home/shandong/mmweb.icu/mm.web.de/send_contact_to_telegram.php on line 37
